@@ -1,0 +1,171 @@
+Goal:
+
+A resilient assembly platform based on block-chain technology, smart contracts and libertarian communist principles.
+
+How basic:
+
+Antok is open source software to setup local autonomous assemblies. Which can be freely joined by members and workers collectives. It embraces an anarchist non-hierarchal philosophy by offering direct-democratic and bottom up organisational structures and voting procedures. Councils or persons can be delegated decisions and tasks and are constantly accountable through majority votes, which can be raised by any members. Assemblies can easily align on a national or international basis to form socialist federations, with an aim to share and protect finite resources or common interests and achieve mass consensus. Integrity over the system is maintained by responsible local assembly's delegated organisers council, physically through traditional or modern registration and abuse prevention methods. By assigning representatives to their own and others assemblies to ensure honesty or represent their collective views at meetings.
+
+The backbone is formed using peer-to-peer block-chain technology. Which is time-stamped, cryptographically verifiable, autonomous, and un-censorable. Each member is assigned a unique token which acts as an ID and is used for rationed access to public resources and services. Inventories are physically ratified by delegated councils, allowing transparent and real-time monitoring when combined with members unique tokens. Providing opportunities to distinguish between personal and communal property, and assist global bartering and gift based economies. A simple example is token being used to check out groceries at a store using a mobile device or printed QR code, and automatically updating public log, or to vote on crucial policies through platform interface. It would also be possible to implement features to pre-plan production requirements based on and individual needs and fund raising could optionally be permitted outside platform but appropriately directed to anti-capitalist agenda. Boycotting and protest options would be promoted to further unite against oppressive causes and force alternative solutions.
+
+Requirements:
+
+-Unique token which encrypts individually identifiable information to the block-chain, who's ownership is always easily and securely provable.
+
+-Ability to physically and accurately ratify any public resources and services to the block-chain. Providing real-time inventory monitoring when combined with unique token. Also utilised to distinguish personal and communal property and assist global bartering and gift based economies.
+
+-Direct-democratic and bottom up organasational structures and voting procedures. With all hierarchy constantly accountable through majority votes, which can be raised by any members and optionally anonymous. An intial public issue raised should be cast to a debate and vote, or delegated to relevant councils, after recieving a certain percentage of support. Re-occuring actions just require one vote and collectives and councils would have internal systems for operational purposes.
+
+-Options to form national and international alliances as socialist federations to share and protect finite resources and common interests. Abilities to assign representatives for schedudled meetings with other assemblies and to assign roles to mantain honesty and build a reputation based system. Integrity of the system will ultimately be responisble at a local level.
+
+-Promoted boycott and protests options to launch and highlight actions, campaigns and alternatives. Scaled locally to international.
+
+-Community platform for integrated end-to-end encrypted chat and file-sharing, detailing Antok social activity, arranging meetings and discussing feedback.
+
+-Autonomous community control over local assemblies, uncontrollable by Antok protcol.
+
+Building options:
+
+Ethereum and Maidsafe. These two almost perfectly fit project requirements but both are still in early beta. However they are highly anticipated with tons of ready built applications that cover some proposed features. boardroom.io, a corporate aimed democratic governence platform has now released a whitepaper outlining their proposal based on the Ethereum platform, proving the viability of achieving this projects aims and providing an excellent building block. Maidsafe is essential to attaining a secure end-to-end encrypted and anonymous network. Counterparty would be another option, but it's reliant on the Bitcoin block-chain, which Antok will be technically indepedent of from the out-set. Python is my programming language of choice. 
+
+Security:
+
+The technology exists to start implementing this today. Biggest security obstacles are not to overcome our programming capabilities, only silicon valley trojan horses. But block-chain technology's transparency, means even if hardware is backdoor'd, verification methods can at least still prove system's accuracy through its inspection. The world has become so reliant on immortal Internet technology that securing against its omnipotent enemies is also a vital mission for human privacy and freedom. Antok's integrity and feasibility relies completely on active and physical participation, but attempts to make mass political organisation as easy as logging into facebook, on a basic and security conscious level. Built reliably enough to base entire political and social frame-works on and withstand all technology based corrupting forces or censorship. The world wide web is not a suitable platform to base such a system. De-centralised and autonomous applications capable of independently achieving reliable mass consensus on the truthfulness of events having occurred, make past impractical democratic solutions now easily possible. Combined with time-stamped, automated and smart self-fulfilling contracts, requiring no lawyers to authenticate, and allowing simple multi-signatory arrangements or escrow solutions. Governance tools dictated by mathematics and science, instead of bureaucrats and middle-men.
+
+Functional requirements:
+
+Unique Token:
+
+    Unqiue ID number
+    Password
+    Linked identification encrypted to the block-chain
+    Secure proof of ownership feature
+
+Resources and services:
+
+    Create name
+    Set type (collective/council)
+    Set ownership (personal/collective/council)
+    Input amount (optionally re-occuring)
+    Council verification (TRUE, FALSE - assigned to relevant council)
+    Output transactions record
+    Real-time inventory log
+    Individual requirement requests
+
+Organisational structures (collectives/councils):
+
+    Create name
+    Set Type (collective/council)
+    Set role 
+    Set positions (chairs will always be accountable to public or delegated council)
+    Assign tasks (to positions/sub-councils/collectives/councils/members - optionally re-occurring)
+    Set meetings (option available to chairs - public/internal - optionally re-occurring)
+    Publish information and feedback (option available to chairs - public/internal) 
+    Set sub-councils (same options but dictated by creator)
+    Set re-occuring votes (public/collective/councils)
+    Manage profile
+    Encrypted chat and file-sharing
+    Internal voting and discussion platform 
+    Role and positions changeable by public vote (or internally and by delegated councils for collectives)
+    Bartering and gift economy options
+    Boycott and protest options
+
+Voting platforms (members/collectives/councils):
+
+    Raise issue
+    Support issue
+    Debate issue
+    Cast vote (issues are automatically eligble for vote after recieving a percentage of assembly support)
+    Re-occuring votes (can be set by collectives/councils)
+
+Alliances:
+
+    Propose new (delegated to relevant councils)
+    Remove existing (delegated to relevant councils)
+    Set council meetings (delegated to relevant councils - optionally re-occurring)
+    Publish meeting information and feedback (delegated to relevant councils)
+    Set combined tasks (delegated to relevant councils - optionally re-occurring)
+    Set re-occuring votes (delegated to relevant councils)
+    Assign council and representatives
+
+Protest and boycott:
+
+    Create action
+    Set locality
+    Link campaign (different organisations participating)
+    Link alternatives
+    Join action
+    Un-join action
+    Remove action (delegated council will be assigned role to prevent abuse, a non-promoted log history will kept to ensure council's honesty)
+
+Community platform:
+
+    Voting activities
+    Protest activities
+    Council meetings information and feedback
+    End-to-end encrypted chat and file-sharing
+    Community board (highlighting social activity by locality)
+    Manage profile
+    Bartering and gift economy options
+    Service and resource requirement requests (optional re-occuring future requirement planner)
+    Autonomous management tools
+
+Autonomous control:
+
+    Assign council and collective roles (collectives can be delegated to council)
+    Assign council and collective positions (collectives can be delegated to council)
+    Assign council and collective tasks (collectives can be delegated to council)
+    Different organisational and abuse prevention roles created by default to administrate necessary Antok features
+    Ability to ban permanently or a time period members or collectives (delegated to relevant council or done internally)
+    Administrative history logs
+
+Bartering and gift economy:
+
+    Trade, or swap assigned property for time-period
+    Allocate resources and services available to be distributed for gift economy (delegated to relevant council)
+    Reward gift economy participants (delegated to relevant collectives/councils)
+
+Current status:
+
+Reaching out to any developers interested in participating and anyone else with useful skill-sets who would like to contribute. Next phase will be to draw up proposed layouts and actually start programming into GitHub. Can be contacted at antok@tuta.io. 
+
+Projects of interest (with white papers):
+Boardroom.to (governance platform)
+http://boardroom.to/BoardRoom_WhitePaper.pdf
+
+Bitnation.co (governance platfom)
+https://docs.google.com/document/d/1ZiIZ-rmI79HPNbfJ1AXwcgoe8TKMoUMatDf7YfO5LZw/edit
+
+Coloured coins (linking physical items to block-chain for notary purposes)
+https://github.com/Colored-Coins/Colored-Coins-Protocol-Specification/wiki
+
+Open Transactions (linking physical items to block-chain for notary purposes)
+http://www.opentransactions.org/open-transactions.pdf
+
+Ethereum (decentralised and autonomous application platform)
+https://github.com/ethereum/wiki/wiki/White-Paper
+
+Maidsafe (end-to-end encrypted and anonymous mesh internet)
+https://github.com/maidsafe/Whitepapers/blob/master/Project-Safe.md
+
+Faircoin (alternative crypto-currency)
+https://chain.fair-coin.org/download/FairCoin2-Draft.pdf
+
+Other reading recommendations:
+Ethereum frontier, simple introduction and basic guide "To start your own country"
+https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/"
+
+DAOs, DACs, DAs and More: An Incomplete Terminology Guide
+http://asf-iwa.org.au/assets/The-Anarchist-Collective-Sam-Dolgoff.pdf
+
+Workers self-management in the Spanish Revolution 1936 - 1939, Murray Bookchin
+http://asf-iwa.org.au/assets/The-Anarchist-Collective-Sam-Dolgoff.pdf
+
+Basic Anarcho-Syndicalism (Revolutionary Unionism)
+https://libcom.org/files/basic_anarcho_syndicalism_cnt.pdf
+
+Ideas inspired by The CNT and early cypherpunk crypto-anarchists pioneers!
+
+The Confederación Nacional del Trabajo (CNT; "National Confederation of Labour") is a Spanish confederation of anarcho-syndicalist labour unions affiliated with the International Workers Association (IWA; Spanish: AIT – Asociación Internacional de los Trabajadores).
+
+Original concept posted online May 1st, 2015!  
